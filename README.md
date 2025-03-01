@@ -7,6 +7,7 @@ This repository contains my notes, practices, and solutions for the **Applied Da
 ## 📊 Datasets
 The following datasets are utilized in this repository:
 - 🚗 [Car Features and MSRP](https://www.kaggle.com/datasets/CooperUnion/cardataset)
+- Stroke Prediction
 
 ---
 
