@@ -7,9 +7,20 @@ This repository contains my notes, practices, and solutions for the **Applied Da
 ## 📊 Datasets
 The following datasets are utilized in this repository:
 - 🚗 [Car Features and MSRP](https://www.kaggle.com/datasets/CooperUnion/cardataset)
-- Stroke Prediction
+- 🧠 [Stroke Prediction](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 
----
+
+## 📝 Assignments
+
+- Assignment 1: Kaggle [mini tutorial](https://www.kaggle.com/learn/pandas) for introduction to Pandas.
+- Assignment 2:
+    - Exploratory Analysis and Data Cleaning on **[Stroke Prediction](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) dataset.**
+    - Kaggle [mini tutorial](https://www.kaggle.com/learn/data-cleaning) for Data Cleaning.
+
+## 🔄 Practices
+
+- Practice 1: Explore pandas features on **[Car Features and MSRP](https://www.kaggle.com/datasets/CooperUnion/cardataset) dataset.**
+
 
 ## 🌐 Course Information
 For more details about the course, visit the official course website:
@@ -18,8 +29,11 @@ For more details about the course, visit the official course website:
 ---
 
 ## 📌 Repository Structure
-- **Notes/** → Summarized lecture notes & key concepts
-- **Practices/** → Hands-on coding exercises & projects
-- **Solutions/** → Solutions to course assignments
+- **Notes** → Summarized lecture notes & key concepts
+- **Practices** → Hands-on coding exercises & projects
+- **Solutions** → Solutions to course assignments
+
+---
+
 
 Stay tuned for continuous updates! 🚀
