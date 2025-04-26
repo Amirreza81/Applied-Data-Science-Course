@@ -30,6 +30,7 @@ The course covers the following key topics:
 The following datasets are utilized in this repository:
 - 🚗 [Car Features and MSRP](https://www.kaggle.com/datasets/CooperUnion/cardataset)
 - 🧠 [Stroke Prediction](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
+- [Ames Iowa Housing Data](https://www.kaggle.com/datasets/marcopale/housing)
 
 
 ## Assignments
