@@ -30,7 +30,10 @@ The course covers the following key topics:
 The following datasets are utilized in this repository:
 - 🚗 [Car Features and MSRP](https://www.kaggle.com/datasets/CooperUnion/cardataset)
 - 🧠 [Stroke Prediction](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
-- [Ames Iowa Housing Data](https://www.kaggle.com/datasets/marcopale/housing)
+- 🏠 [Ames Iowa Housing Data](https://www.kaggle.com/datasets/marcopale/housing)
+- 🏨 [Hotel Booking Demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/data)
+- 🥑 [Avocado Prices](https://www.kaggle.com/datasets/neuromusic/avocado-prices)
+
 
 
 ## Assignments
@@ -39,7 +42,10 @@ The following datasets are utilized in this repository:
 - Assignment 2:
     - Exploratory Analysis and Data Cleaning on **[Stroke Prediction](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset) dataset.**
     - Kaggle [mini tutorial](https://www.kaggle.com/learn/data-cleaning) for Data Cleaning.
-
+- Assignment 3: 
+    - Data Visualization on [Hotel Booking Demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand/data)
+    - Kaggle [mini tutorial](https://www.kaggle.com/learn/data-visualization) for Data Visualization.
+    
 ## Practices
 
 - Practice 1: Explore pandas features on **[Car Features and MSRP](https://www.kaggle.com/datasets/CooperUnion/cardataset) dataset.**
