@@ -182,3 +182,8 @@ Maybe I will practice more in the future :).
 - **Assignments** → Solutions to course assignments
 
 ---
+
+# Project
+
+- [**Graduate Admission Prediction**](https://github.com/Amirreza81/Graduate-Admission-Prediction)
+- [**CNN and NST from Scratch**](https://github.com/Amirreza81/CNN_and_NST_from_Scratch)
