@@ -1,6 +1,6 @@
 # Applied Data Science Course 🚀
 
-This repository contains my notes, practices, and solutions for the **Applied Data Science Course** offered by **Sharif University of Technology (EE-879)**. The content covers various data science concepts, hands-on exercises, and solutions to course assignments.
+This repository contains my notes, practices, and solutions for the **Applied Data Science** Course offered by **Sharif University of Technology** (EE-879). The course has also been presented — and is currently being presented — at **Teias, Khatam University**. The content covers various data science concepts, hands-on exercises, and solutions to course assignments.
 
 ---
 
